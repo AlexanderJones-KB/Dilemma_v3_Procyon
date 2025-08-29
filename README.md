@@ -3,7 +3,7 @@
 
 This is unofficial, untested, use at your risk, broken assembly instruction for building Dilemma v3 keyboard with Procyon mod.
 
-You should check [Bastard Keyboards](https://bastardkb.com/) website for high quality, ready to use product.
+You should check [Bastard Keyboards](https://bastardkb.com/) website for high quality, ready to use products.
 
 ## Dimensions
 
@@ -50,6 +50,11 @@ Always compare with documentation and verify everything twice.
 
 ![](img/solder.jpg)
 
+## Firmware
+
+This document does not cover device flashing topic.  
+You should go here: https://github.com/Bastardkb/qmk_userspace/releases
+
 ## Left side
 
 ### Parts
@@ -61,8 +66,11 @@ Screws
 3D Prints  
 
 ![](img/left_prints_1.jpg)
+
 ![](img/left_prints_2.jpg)
+
 ![](img/left_prints_3.jpg)
+
 ![](img/left_prints_4.jpg)
 
 Acrylic Plate  
@@ -72,6 +80,7 @@ Acrylic Plate
 PCB  
 
 ![](img/left_pcb_1.jpg)
+
 ![](img/left_pcb_2.jpg)
 
 Anti-slip Pads (10.0 x 3.0 mm)
@@ -83,6 +92,7 @@ Anti-slip Pads (10.0 x 3.0 mm)
 Bottom flat head screws, bottom 3D print, spacers - combine.
 
 ![](img/left_asm_1.jpg)
+
 ![](img/left_asm_2.jpg)
 
 Drop in acrylic plate. Check spacers orientation.
@@ -106,6 +116,7 @@ Attach pads.
 
 ![](img/left_asm_7.jpg)
 
+Insert keys, connect USB and flash firmware if needed.  
 Is is alive!
 
 ![](img/left_asm_8.jpg)
