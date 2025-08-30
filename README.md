@@ -89,7 +89,7 @@ Anti-slip Pads (10.0 x 3.0 mm)
 
 ### Steps
 
-Bottom flat head screws, bottom 3D print, spacers - combine.  
+Six flat head screws, bottom 3D print, six spacers - combine.  
 Align rotation of spacers.
 
 ![](img/left_asm_1.jpg)
@@ -109,7 +109,7 @@ Drop in PCB. Wiggle might be required.
 ![](img/left_asm_5.jpg)
 
 Drop in top layer 3D print and cover with hole for logo.  
-Use beveled screws to fix everything together.
+Use six beveled head screws to fix everything together.
 
 ![](img/left_asm_6.jpg)
 
@@ -139,8 +139,8 @@ Screws
 ![](img/right_prints_3.jpg)
 
 Touchpad  
-2 x 5.0 mm M3 inserts  
-2 x flat head 8.0 mm M3 screw  
+Two 5.0 mm M3 inserts  
+Two flat head 8.0 mm M3 screws  
 100.0 mm FPC 12P 0.5 mm pitch type B
 
 ![](img/right_touchpad.jpg)
@@ -172,7 +172,7 @@ Put it aside.
 
 ![](img/right_asm_2.jpg)
 
-Four beveled flat head screws, top 3D print.
+Four beveled head screws, top 3D print.
 
 ![](img/right_asm_3.jpg)
 
@@ -206,7 +206,7 @@ Attach pads.
 
 ![](img/right_asm_10.jpg)
 
-Use two remaining beveled screws on right edge.  
+Use two remaining beveled head screws on right edge.  
 Insert keys, connect USB and flash firmware if needed.  
 Is is alive!
 
