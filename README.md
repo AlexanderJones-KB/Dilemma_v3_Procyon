@@ -63,7 +63,7 @@ Screws
 
 ![](img/left_screws.jpg)
 
-3D Prints  
+3D Prints
 
 ![](img/left_prints_1.jpg)
 
@@ -73,11 +73,11 @@ Screws
 
 ![](img/left_prints_4.jpg)
 
-Acrylic Plate  
+Acrylic Plate
 
 ![](img/left_plate.jpg)
 
-PCB  
+PCB
 
 ![](img/left_pcb_1.jpg)
 
@@ -125,7 +125,38 @@ Is is alive!
 
 ### Parts
 
-WIP
+Screws
+
+![](img/right_screws.jpg)
+
+3D Prints
+
+![](img/right_prints_1.jpg)
+
+![](img/right_prints_2.jpg)
+
+![](img/right_prints_3.jpg)
+
+Touchpad  
+2x 5.0 mm M3 inserts  
+2x flat head 8.0 mm M3 screw  
+100.0 mm FPC 12P 0.5 mm pitch type B
+
+![](img/right_touchpad.jpg)
+
+Acrylic Plate
+
+![](img/right_plate.jpg)
+
+PCB
+
+![](img/right_pcb_1.jpg)
+
+![](img/right_pcb_2.jpg)
+
+Anti-slip Pads (10.0 x 3.0 mm)
+
+![](img/right_pads.jpg)
 
 ### Steps
 
