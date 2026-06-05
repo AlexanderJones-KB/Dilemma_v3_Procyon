@@ -217,3 +217,9 @@ Is is alive!
 It is so beautiful.
 
 ![](img/final.jpg)
+
+## Authors
+
+mikewind22
+
+[szfkamil](https://github.com/szfkamil)
